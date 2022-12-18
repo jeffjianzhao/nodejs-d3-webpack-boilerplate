@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Based on git@github.com:taniarascia/webpack-boilerplate",
   "main": "index.js",
-  "author": "Jian Zhao (jianzhao@uwaterloo.ca)",
+  "author": "Jian Zhao",
   "license": "MIT",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
